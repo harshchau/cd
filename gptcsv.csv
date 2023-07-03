@@ -1,4 +1,4 @@
-relevant_date,instance_type,stack_type,env,cost,hours,DefaultVCpus,core_seconds_used,cost_per_core_hour
+relevant_date,instance_type,stack_type,env,dollar cost,hours,DefaultVCpus,core_seconds_used,cost_per_core_hour
 2023-06-01T00:00:00.000+0000,c5.2xlarge,cmp,prod,29.52,120,8,3456000,0.03075
 2023-06-01T00:00:00.000+0000,c5.2xlarge,io,prod,41.328,168,8,4838400,0.030750000000000000
 2023-06-01T00:00:00.000+0000,m5.4xlarge,cmp,prod,108.17858733190000,243.296696,16,14013889.6896,0.027789780212402700
