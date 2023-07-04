@@ -1,4 +1,4 @@
-ID, Brand, Sales, Sales_Change, State
+ID,Brand,Sales,Sales_Change,State
 1, 'Toyota', 1849751, -9, NY
 2, 'Ford', 1767439, -2, TX
 3, 'Chevrolet', 1502389, 6, NY
