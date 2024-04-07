@@ -1,0 +1,4 @@
+date , instance_type , stack_type , env , cost , hours,
+2023-03-01 , a5.2xlarge , c , null , 17 , 72.0,
+2023-03-01 , b5.2xlarge ,i , null , 70 , 28.0,
+2023-03-01 , c5ad.2xlarge ,i , null , 26 , 22,
